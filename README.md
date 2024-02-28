@@ -1,4 +1,4 @@
-<h1 align="left">Greetings! How are you all? 👋</h1>
+<h1 align="center">Greetings! How are you all? 👋</h1>
 
 ###
 
