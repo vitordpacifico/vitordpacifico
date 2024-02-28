@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">👨‍💻 My name is Victor Dias and I am a Software Engineer at FIAP in São Paulo, Brazil. Aspiring to become a Full Stack Developer and an Ethical Hacker.</h4>
+<h4 align="left">👨‍💻 My name is Victor Dias and I am a Software Engineer at FIAP in São Paulo, Brazil. Aspiring to become a Full Stack Developer and Ethical Hacker.</h4>
 
 ###
 
