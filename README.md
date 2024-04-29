@@ -4,6 +4,12 @@
 
 <h4 align="left">👨‍💻 My name is Victor Dias and I am a Software Engineer at FIAP in São Paulo, Brazil. Aspiring to become a Full Stack Developer and Ethical Hacker.</h4>
 
+<div align="center">
+  <a href="https://github.com/vitordpacifico"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=vitordpacifico&theme=noctis_minimus" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordpacifico&theme=noctis_minimus&layout=compact&langs_count=4" height="180em"/>
+</div>
+
 ###
 
 <h2 align="center">🚀 About me!</h2>
