@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/vitordpacifico"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=vitordpacifico&theme=noctis_minimus" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordpacifico&theme=noctis_minimus&layout=compact&langs_count=4" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vitordpacifico&theme=noctis_minimus" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordpacifico&theme=noctis_minimus&layout=compact&langs_count=4" height="160em"/>
 </div>
 
 ###
