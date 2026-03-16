@@ -23,12 +23,15 @@
       <a href="LINK-TWITCH" target="_blank">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
       </a>
-      <a href="mailto:SEU-EMAIL" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
       <a href="LINK-DISCORD" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
       </a>
+      <a href="LINK-YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+      <a href="LINK-WHATSAPP" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
     </td>
     <td valign="middle" align="right">
       <img src="https://i.pinimg.com/736x/22/26/94/2226940af3d2592837b91025c3a1f186.jpg" width="120"/>
