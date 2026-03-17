@@ -34,7 +34,7 @@
   </a>
     </td>
     <td valign="middle" align="right">
-      <img src="https://i.pinimg.com/736x/22/26/94/2226940af3d2592837b91025c3a1f186.jpg" width="120"/>
+      <img src="https://i.pinimg.com/736x/22/26/94/2226940af3d2592837b91025c3a1f186.jpg" width="145"/>
     </td>
   </tr>
 </table>
