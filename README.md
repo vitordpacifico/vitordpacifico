@@ -1,6 +1,6 @@
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordpacifico&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=484f58"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordpacifico&layout=compact&langs_count=16&theme=github_dark&border_color=484f58"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitordpacifico&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitordpacifico&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
