@@ -1,20 +1,24 @@
-<div align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitordpacifico&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitordpacifico&layout=compact&langs_count=16&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true"/>
-</div>
+<table>
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitordpacifico&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true"/></td>
+    <td><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitordpacifico&layout=compact&langs_count=16&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true"/></td>
+  </tr>
+</table>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Victor-Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Victor-Kali" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg">
-  <img align="center" alt="Victor-PowerShell" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg">
-  <img align="center" alt="Victor-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Victor-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Victor-Cpp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Victor-MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Victor-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Victor-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Victor-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
+<table>
+  <tr>
+    <td><img alt="Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></td>
+    <td><img alt="Kali" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg"></td>
+    <td><img alt="PowerShell" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg"></td>
+    <td><img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+    <td><img alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></td>
+    <td><img alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></td>
+    <td><img alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
+    <td><img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
+    <td><img alt="Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></td>
+    <td><img alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></td>
+  </tr>
+</table>
 
 ####
 
@@ -39,8 +43,14 @@
 
 ####
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitordpacifico/vitordpacifico/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitordpacifico/vitordpacifico/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitordpacifico/vitordpacifico/output/github-contribution-grid-snake.svg">
-</picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitordpacifico/vitordpacifico/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitordpacifico/vitordpacifico/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitordpacifico/vitordpacifico/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+  </tr>
+</table>
