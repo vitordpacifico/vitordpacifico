@@ -1,9 +1,3 @@
-<table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitordpacifico&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true"/></td>
-    <td><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitordpacifico&layout=compact&langs_count=16&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true"/></td>
-  </tr>
-</table>
 
 <table>
   <tr>
